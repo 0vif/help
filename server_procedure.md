@@ -11,6 +11,7 @@
 - liste des différents ports identifiables :
   - [http](web_server.md)
   - [ftp](ftp.md)
+  - [rsync](rsync.md)
   - [smb](smb.md)
   - [msrpc](msrpc.md)
   - [telnet](telnet.md)
